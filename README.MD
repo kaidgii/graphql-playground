@@ -1,3 +1,3 @@
-# Graphql playground
+# GraphQL playground
 
-Some examples for graphql
+Some examples for graphQL
